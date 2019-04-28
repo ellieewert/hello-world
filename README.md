@@ -13,7 +13,9 @@ This is my first repo.
 
 ## Emphasis
 *This text is italic*
+
 **This text is bold**
+
 This uses *italic* and **bold**
 
 ## Images
@@ -25,9 +27,7 @@ I really love golden retrievers. You can learn more about them [here](https://ww
 ## Blockquotes
 As Roy T. Bennett said:
 
-> Attitude is a choice. Happiness is a choice. Optimism is a choice. 
-> Kindness is a choice. Giving is a choice. Respect is a choice. 
-> Whatever choice you make makes you. Choose wisely.
+> Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.
 
 ## Backslash Escapes
 \*Here I am actually using asterisks\*
@@ -46,13 +46,12 @@ As Roy T. Bennett said:
 
 ## Task Lists
 - [ ] This is an incomplete list item
-- [x] This is a complete liste item
+- [x] This is a complete list item
 
 ## Tables
 First Header | Second Header
 ------------ | -------------
 Cell 1 | Cell 2
------- | ------
 Cell 3 | Cell 4
 
 ## Emoji
