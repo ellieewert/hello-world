@@ -19,7 +19,7 @@ This is my first repo.
 This uses *italic* and **bold**
 
 ## Images
-![UNI Athletic Logo](https://en.wikipedia.org/wiki/Northern_Iowa_Panthers#/media/File:Northern_Iowa_Panters_logo.svg)
+![Golden Retriever holding a flower in its mouth](https://unsplash.com/photos/Sg3XwuEpybU)
 
 ## Links
 I really love golden retrievers. You can learn more about them [here](https://www.akc.org/dog-breeds/golden-retriever/).
