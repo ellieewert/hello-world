@@ -19,7 +19,7 @@ This is my first repo.
 This uses *italic* and **bold**
 
 ## Images
-![Golden Retriever holding a flower in its mouth](https://unsplash.com/photos/Sg3XwuEpybU)
+![Golden Retriever puppy](https://cdn.pixabay.com/photo/2016/11/16/00/19/golden-retriever-1827899_960_720.jpg)
 
 ## Links
 I really love golden retrievers. You can learn more about them [here](https://www.akc.org/dog-breeds/golden-retriever/).
